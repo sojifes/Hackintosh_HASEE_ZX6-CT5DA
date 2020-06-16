@@ -1,0 +1,2 @@
+# Hackintosh_HASEE_ZX6-CT5DA
+这是神舟战神zx6-ct5da的OpenCore引导的EFI，希望借此可以分享我的经验，给更多同模具机型带来方便
