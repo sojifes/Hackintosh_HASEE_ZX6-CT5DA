@@ -2,10 +2,11 @@
 这是神舟战神zx6-ct5da的OpenCore引导的EFI，希望借此可以分享我的经验，给更多同模具或同机型带来方便
 
 本机型适于NB60TA模具，NB50/60其他系列未经测试，移动版UHD630的机型，不适合台式机，或其他较老的机器  
-
+  
+这个是我研究了几天的教程才做出的，参考了各路大神教程的指点，依旧存在很多不足之处  
 如有不足，漏缺错误等，请批评指正，新人刚了解黑苹果，涉猎无多  
   
-参考过的教程：（顺序不分先后，对事不对人）  
+参考过的教程（顺序不分先后，对事不对人）：  
 xjn:https://blog.xjn819.com/  
 黑果小兵：https://blog.daliansky.net/OpenCore-BootLoader.html  
 宪武：https://github.com/daliansky/OC-little  
