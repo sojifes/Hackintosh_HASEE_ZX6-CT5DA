@@ -5,7 +5,7 @@
 
 如有不足，漏缺错误等，请批评指正，新人刚了解黑苹果，涉猎无多  
   
-参考过的教程：（顺序不分先后，对事不对人）
+参考过的教程：（顺序不分先后，对事不对人）  
 xjn:https://blog.xjn819.com/  
 黑果小兵：https://blog.daliansky.net/OpenCore-BootLoader.html  
 宪武：https://github.com/daliansky/OC-little  
