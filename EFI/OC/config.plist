@@ -40,6 +40,14 @@
 				<key>Path</key>
 				<string>SSDT-PLUG-_SB.PR00.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-BKeyQ11Q12</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-BKeyQ11Q12.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array/>
